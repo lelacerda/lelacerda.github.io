@@ -74,3 +74,10 @@ div{
 div.class1{
             background-color: blue;
 }
+
+button{
+        background: lightblue;
+        padding: 25px;
+        border: 1px solid blue
+      
+}
