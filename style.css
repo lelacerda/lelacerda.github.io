@@ -66,3 +66,9 @@ img{
 .tesla{
     max-width: 250px;
 }
+
+div{
+    background-color: azure;
+    width: 300px;
+    
+}
