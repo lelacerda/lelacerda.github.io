@@ -70,5 +70,7 @@ img{
 div{
     background-color: azure;
     width: 300px;
-    
+    }
+div.class1{
+            background-color: blue;
 }
